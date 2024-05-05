@@ -3,6 +3,8 @@ A HS2/AIS studio item.
 
 This mod includes two sharp tongues between which the difference is merely the materials. While I don't know in what sort of scenes this mod could be used, or how demand this mod is, I just made it. lol
 
+Go to the Workspace tab, select first the mouth or neck block on your character hierarchical list. Second, select the tongue you added in the scene with having put it inside the character's mouth in a fine position. Third, click the Parent button at the bottom of the tab to parent the tongue to the mouth or neck block. So the tongue can now move with following the character's head movements. If you want to do it similar to a studio item, such as a monster item like that in my render, that has no such a chara hierarchical list, you can use NodeConstraints the plugin to link the root node of the tongue to the FK node of the monster's mouth.
+
 The tongue has over 20 bones that allows to make various postures. Just enable **FK function** to rotate them. It suggests to use MoveController the plugin to batch manipulate them. 
 
 You can also tighten the tongue by adjusting the **Tighten** parameter on **Blend Shapes** tab in the adv. mode of HS2PE / AIPE.
