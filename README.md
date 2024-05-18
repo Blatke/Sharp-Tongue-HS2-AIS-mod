@@ -22,3 +22,7 @@ Thank @NastyKing for the render:
 
 Thank @Cabbie01 for the render:
 ![image](https://github.com/Blatke/Sharp-Tongue-HS2-AIS-mod/assets/125734582/3ad9a82c-74e4-4433-be39-e19cc5450560)
+
+
+## Related Mod
+[Naughty Tongue](https://github.com/Blatke/Naughty-Tongue)
